@@ -1,0 +1,9 @@
+c:\users\miantsa\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\bin\Debug\DistanceHammingLevenshtein.exe.config
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\bin\Debug\DistanceHammingLevenshtein.exe
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\bin\Debug\DistanceHammingLevenshtein.pdb
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\obj\Debug\DistanceHammingLevenshtein.csprojResolveAssemblyReference.cache
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\obj\Debug\DistanceHammingLevenshtein.Form1.resources
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\obj\Debug\DistanceHammingLevenshtein.Properties.Resources.resources
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\obj\Debug\DistanceHammingLevenshtein.csproj.GenerateResource.Cache
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\obj\Debug\DistanceHammingLevenshtein.exe
+C:\Users\MIANTSA\documents\visual studio 2015\Projects\DistanceHammingLevenshtein\DistanceHammingLevenshtein\obj\Debug\DistanceHammingLevenshtein.pdb
